@@ -6,7 +6,8 @@ A responsive single-page web application built with **React + Vite** and **Tailw
 
 ## 🖼️ Live Preview https://ezlabs.netlify.app/
 
-![Desktop View](./screenshots/desktop.png)
+<img width="1882" height="880" alt="image" src="https://github.com/user-attachments/assets/f17464f5-f2e6-4d72-8766-4c276c967efd" />
+
 *Desktop View - Home Page*
 
 ![Mobile View](./screenshots/mobile.png)
