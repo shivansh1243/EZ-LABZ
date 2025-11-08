@@ -13,7 +13,8 @@ A responsive single-page web application built with **React + Vite** and **Tailw
 ![Mobile View](./screenshots/mobile.png)
 *Mobile Responsive Design*
 
-![Contact Form](./screenshots/contact-form.png)
+<img width="1888" height="882" alt="image" src="https://github.com/user-attachments/assets/35d60a5f-79c9-4418-9e68-9fdce3156ebf" />
+
 *Contact Form with Validation*
 
 ## ✨ Key Features
